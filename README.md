@@ -38,6 +38,38 @@ That’s it! 🎉
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+
+You are free to:  
+- ✅ Use the code for personal or commercial purposes  
+- ✅ Modify the source code to fit your needs  
+- ✅ Distribute copies of the project  
+- ✅ Share improvements with the community  
+
+Under the following conditions:  
+- ⚖️ You **must include the original copyright notice** and this license in any copies or substantial portions of the project.  
+- 🚫 This software is provided **“as is”**, without any warranty of any kind.  
+- 🛠️ The authors are **not liable** for any damages or issues caused by using the code.  
+
+👉 For full details, please check the [LICENSE](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/LICENSE) file.  
+
+© 2025 Abhijeet Khade. All rights reserved.
+
+---
+
+## 🔹 Software Disclaimer 🔹
+
+🛠️ Provided "As Is" – No guarantees, use at your own risk.  
+📜 No Warranty – No promises on performance or fitness for any purpose.  
+⚖️ No Liability – Authors aren't responsible for any damages or claims.  
+🔄 Use Freely – But at your own discretion and responsibility.  
+
+🚀 In short: Use it, but don’t blame us! 😃
+
+---
+
 ## 📬 Contact
 
 Questions, ideas, or feedback?
