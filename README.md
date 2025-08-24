@@ -35,3 +35,16 @@ These projects are created to practice and showcase my skills in **HTML structur
    open project-name/index.html
 
 That’s it! 🎉
+
+---
+
+## 📬 Contact
+
+Questions, ideas, or feedback?
+
+- Issues: https://github.com/abhijeetkhade1/html-projects/issues  
+- Discussions: https://github.com/abhijeetkhade1/html-projects/discussions  
+- Email: abhijeetkhade36@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/abhijeetkhade36/
+
+✨ Happy building!
