@@ -21,12 +21,12 @@ These projects are created to practice and showcase my skills in **HTML structur
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/html-projects.git
-   ```bash
+   
 
 2. Navigate into the project folder
    ```bash
    cd html-projects
-   ```bash
+   
 
 3. Open any project’s HTML file in your browser:
 
@@ -35,5 +35,6 @@ These projects are created to practice and showcase my skills in **HTML structur
    Linux/Mac: Run
    ```bash
    open project-name/index.html
-   ```bash
+
+   
    That’s it! 🎉
