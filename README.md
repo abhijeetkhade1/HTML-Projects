@@ -8,7 +8,7 @@ These projects are created to practice and showcase my skills in **HTML structur
 ## 📂 Projects
 
 - 📄 **Project 1: Resume Template**  
-  A recipe page with title, ingredients, and step-by-step instructions.  
+  A simple HTML resume template showcasing education, skills, and projects.
   🔗 [Live Demo](https://resumetemplateproject1.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade1/HTML-Projects/tree/main/ResumeTemplateProject1)
 
 
@@ -21,12 +21,10 @@ These projects are created to practice and showcase my skills in **HTML structur
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/html-projects.git
-   
 
 2. Navigate into the project folder
    ```bash
    cd html-projects
-   
 
 3. Open any project’s HTML file in your browser:
 
@@ -36,5 +34,4 @@ These projects are created to practice and showcase my skills in **HTML structur
    ```bash
    open project-name/index.html
 
-   
-   That’s it! 🎉
+That’s it! 🎉
