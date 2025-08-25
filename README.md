@@ -15,6 +15,10 @@ These projects are created to practice and showcase my skills in **HTML structur
   A simple HTML page to learn and cook tasty dishes..
   🔗 [Live Demo](https://recipeepageproject2.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/RecipeePageProject2/index.html)
 
+- 📄 **Project 3: Tribute Page**  
+  Chhatrapati Shivaji Maharaj : Founder of the Maratha Empire, master of guerilla strategy, and a symbol of Swaraj (self-rule).
+  🔗 [Live Demo](https://shivajitributepageproject3.netlify.app/#ig) | 📂 [Source Code](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/ShivajiTributePageProject3/index.html)
+
 
 *(More projects will be added soon!)*
 
