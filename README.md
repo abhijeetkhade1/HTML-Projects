@@ -20,6 +20,11 @@ These projects are created to practice and showcase my skills in **HTML structur
   🔗 [Live Demo](https://shivajitributepageproject3.netlify.app/#ig) | 📂 [Source Code](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/ShivajiTributePageProject3/index.html)
 
 
+- 📄 **Project 4: College site**  
+  An interactive college website providing easy access to information and updates.
+  🔗 [Live Demo](https://collegesiteproject4.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/CollegeSiteProject4/index.html)
+
+  
 *(More projects will be added soon!)*
 
 ---
