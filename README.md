@@ -25,7 +25,7 @@ These projects are created to practice and showcase my skills in **HTML structur
   🔗 [Live Demo](https://collegesiteproject4.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/CollegeSiteProject4/index.html)
 
 - 📄 **Project 5: Travel Explorer**  
-  An travel platform that connects you to destinations, cultures, and unforgettable journeys.
+  An travel platform that connects you to destinations, cultures, and unforgettable journeys..
   🔗 [Live Demo](https://travelexplorerproject5.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/TravelExplorerProject5/index.html)
 
   
